@@ -4,6 +4,22 @@
 原vue插件链接：[基于滑动式的验证码，免于字母验证码的繁琐输入 用于网页注册或者登录](https://gitee.com/monoplasty/vue-monoplasty-slide-verify)
 
 
+
+## 插件截图
+
+初始状态：
+
+![image-20210128161414932](https://cdn.jsdelivr.net/gh/Indexsarrol/image/blogs/image-20210128161414932.png)
+
+成功状态：
+
+![image-20210128161450170](https://cdn.jsdelivr.net/gh/Indexsarrol/image/blogs/image-20210128161450170.png)
+
+失败状态：
+
+![image-20210128161516177](https://cdn.jsdelivr.net/gh/Indexsarrol/image/blogs/image-20210128161516177.png)
+
+
 ## 安装
 ``` shell
 $ npm install react-slide-verify --save-dev
