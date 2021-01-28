@@ -1,6 +1,6 @@
 {
   "name": "react-slide-verify",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "基于React的PC端/移动端滑动验证\u001b[C\u001b[D",
   "main": "dist/index.js",
   "files": [
@@ -52,6 +52,7 @@
     "webpack": "^4.46.0",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.2",
-    "webpack-merge": "^4.2.2"
+    "webpack-merge": "^4.2.2",
+    "zh-less-loader": "^1.0.0"
   }
 }

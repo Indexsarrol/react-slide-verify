@@ -13,7 +13,6 @@ class Demo extends Component {
         super(props);
         this.state = {};
     }
-
     onSuccess = (time) => {
         console.log(time);
     }
@@ -26,21 +25,15 @@ class Demo extends Component {
         console.log('刷新')
     }
 
-
-
     render() {
         return (
             <div className="container">
                 <ReactSlideVerify
-                    l={42}
-                    r={10}
+                    l={40}
+                    r={8}
                     w={310}
                     h={155}
                     accuracy={5}
-                    refreshStyle={{
-                        color: 'red',
-                        fontSize: 15,
-                    }}
                     imgs={[img1, img2, img3, img4, img5]}
                     sliderText="向右滑动"
                     success={this.onSuccess}
