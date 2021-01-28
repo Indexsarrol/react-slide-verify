@@ -1,6 +1,6 @@
 {
   "name": "react-slide-verify",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "基于React的PC端/移动端滑动验证\u001b[C\u001b[D",
   "main": "dist/index.js",
   "files": [
