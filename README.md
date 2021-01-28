@@ -1,6 +1,8 @@
 ## 说明
 此插件是通过vue的一个轮子改造成的react版本，若有侵权，请告知删除。
 
+原vue插件链接：[基于滑动式的验证码，免于字母验证码的繁琐输入 用于网页注册或者登录](https://gitee.com/monoplasty/vue-monoplasty-slide-verify)
+
 
 ## 安装
 ``` shell
